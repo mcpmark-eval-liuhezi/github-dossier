@@ -1,0 +1,12 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+
+# Local env files
+.env
+.env.local
